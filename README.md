@@ -7,9 +7,9 @@ I create tech-based solutions to empower and uplift my community! 🌱
 - **Buzz Bazaar**: A student-run reselling platform at Georgia Tech, helping 45+ users find great deals on 60+ products! 💻💸
 
 ### 🏆 Previous Experiences:
-- Developed **winning trading strategies** at Millennium Management 💼📈
-- Externed as a **Software Engineer** at Accenture, building cool stuff with amazing people! 👩‍💻✨
-- Conducted research as a **Data Science Intern** at Wolfram, diving deep into data! 🔍📊
+- Developed **winning trading strategies** at Millennium Management 💼
+- Externed as a **Software Engineer** at Accenture, building cool stuff and learning about Generative AI and Data Analytics! 👩‍💻
+- Conducted research as a **Data Science Intern** at Wolfram, diving deep into linguistics data! 🔍📊
 
 ### 🌍 Community-Building:
 - **VP External** at **Women @ College of Computing**, where I connect 160+ women with recruitment opportunities by hosting events with top firms like **Google** and **Bloomberg**. 👩‍💻💖
