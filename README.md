@@ -4,7 +4,7 @@ I create tech-based solutions to empower and uplift my community! 🌱
 
 ### 💡 What I Built:
 - **BELA** \[Python, GCP, Transformers, GPT-3.0]: An NLP-based chatbot designed to help 35+ underserved ESL learners! 🤖✨ (Research published in EMNLP and NeurIPS) 
-- **Buzz Bazaar[https://buzz-bazaar-app-muskan-mahajans-projects.vercel.app/]** \[HTML, TailwindCSS, React, Node.JS, PostgreSQL]: A student-run reselling platform at Georgia Tech, helping 45+ users find great deals on 60+ products! 💻💸
+- **[Buzz Bazaar](https://buzz-bazaar-app-muskan-mahajans-projects.vercel.app/)** \[HTML, TailwindCSS, React, Node.JS, PostgreSQL]: A student-run reselling platform at Georgia Tech, helping 45+ users find great deals on 60+ products! 💻💸
 
 ### 🏆 Previous Experiences:
 - Developed **winning trading strategies** at Millennium Management 💼
