@@ -14,5 +14,7 @@ I create tech-based solutions to empower and uplift my community! 🌱
 ### 🤝 Community-Building:
 - **VP External** at **Women @ College of Computing**, where I connect 160+ women with recruitment opportunities by hosting events with top firms like **Google** and **Bloomberg**. 👩‍💻💖
 
-### Let's Connect! 🌟  
-Feel free to explore my projects and reach out. I'm always excited to collaborate and learn! 💬
+### Let's Connect
+Feel free to explore my projects and reach out. I'm always excited to collaborate and learn! 
+
+
