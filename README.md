@@ -8,8 +8,8 @@ I create tech-based solutions to empower and uplift my community! 🌱
 
 ### 🏆 Previous Experiences:
 - Developed **winning trading strategies** at Millennium Management 💼
-- Externed as a **Software Engineer** at Accenture, building cool stuff and learning about Generative AI and Data Analytics! 👩‍💻
-- Conducted research as a **Data Science Intern** at Wolfram, diving deep into linguistics data! 🔍📊
+- Conducted research as a **Data Science Intern** at Wolfram, diving deep into linguistics data! Featured Contributor article [here](https://community.wolfram.com/groups/-/m/t/2581088)
+-  Externed as a **Software Engineer** at Accenture, learning about high level decision making with Generative AI and Data Analytics!
 
 ### 🌍 Community-Building:
 - **VP External** at **Women @ College of Computing**, where I connect 160+ women with recruitment opportunities by hosting events with top firms like **Google** and **Bloomberg**. 👩‍💻💖
